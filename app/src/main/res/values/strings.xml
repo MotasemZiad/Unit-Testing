@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloTest2</string>
+    <string name="sample_name">Ahmed Hassan</string>
+    <string name="sample_email">ahmed.hassan@gmail.com</string>
+</resources>
